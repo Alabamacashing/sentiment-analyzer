@@ -20,3 +20,6 @@ pip install flask transformers tf-keras
 python app.py
 ```
 Then open http://127.0.0.1:5000
+
+## Live Demo
+[Try it here](https://sentiment-analyzer-4cpt.onrender.com)
